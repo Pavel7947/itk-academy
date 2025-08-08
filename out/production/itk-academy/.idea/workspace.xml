@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e492dd7f-ce9a-43e3-9724-748d398023ee" name="Changes" comment="Практическое задание - Concurrency - синхронизаторы">
+      <change afterPath="$PROJECT_DIR$/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrentBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConcurrentBankExample.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="3103WYtbOP5TV7wkxB285ZEaFYp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ConcurrentBankExample.executor": "Run",
+    "Application.TestComplexTaskExecutor.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "concurrent-bank",
+    "last_opened_file_path": "C:/Users/Pavel Syutkin/IdeaProjects/itk-academy"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Pavel Syutkin\IdeaProjects\itk-academy" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ConcurrentBankExample">
+    <configuration name="ConcurrentBankExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConcurrentBankExample" />
+      <module name="itk-academy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestComplexTaskExecutor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestComplexTaskExecutor" />
+      <module name="itk-academy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConcurrentBankExample" />
+        <item itemvalue="Application.TestComplexTaskExecutor" />
+        <item itemvalue="Application.TestComplexTaskExecutor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e492dd7f-ce9a-43e3-9724-748d398023ee" name="Changes" comment="" />
+      <created>1754647196599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1754647196599</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Первый коммит">
+      <option name="closed" value="true" />
+      <created>1754647212492</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1754647212492</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Практическое задание - StringBuilder">
+      <option name="closed" value="true" />
+      <created>1754647430331</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1754647430331</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Практическое задание - Collection - фильтрация">
+      <option name="closed" value="true" />
+      <created>1754647551624</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1754647551624</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Практическое задание - Collection - count of elements">
+      <option name="closed" value="true" />
+      <created>1754647803893</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1754647803893</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Практическая задача - Concurrency - блокирующая очередь">
+      <option name="closed" value="true" />
+      <created>1754647963714</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1754647963714</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Практическое задание - Concurrency - синхронизаторы">
+      <option name="closed" value="true" />
+      <created>1754648147027</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1754648147027</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Первый коммит" />
+    <MESSAGE value="Практическое задание - StringBuilder" />
+    <MESSAGE value="Практическое задание - Collection - фильтрация" />
+    <MESSAGE value="Практическое задание - Collection - count of elements" />
+    <MESSAGE value="Практическая задача - Concurrency - блокирующая очередь" />
+    <MESSAGE value="Практическое задание - Concurrency - синхронизаторы" />
+    <option name="LAST_COMMIT_MESSAGE" value="Практическое задание - Concurrency - синхронизаторы" />
+  </component>
+</project>
